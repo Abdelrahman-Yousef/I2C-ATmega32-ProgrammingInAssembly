@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\Debug\I2C_Master_Receiver.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>I2C_Master_Receiver.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>I2C_Master_Receiver.map</FILE>
+  <FILE>I2C_Master_Receiver.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\main.asm</FILE><LINE>14</LINE></MAIN>
+  <I2C_INIT><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\main.asm</FILE><LINE>53</LINE></I2C_INIT>
+  <I2C_START><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\main.asm</FILE><LINE>62</LINE></I2C_START>
+  <I2C_STATUS><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\main.asm</FILE><LINE>106</LINE></I2C_STATUS>
+  <LOOP><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\main.asm</FILE><LINE>45</LINE></LOOP>
+  <I2C_WRITE><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\main.asm</FILE><LINE>71</LINE></I2C_WRITE>
+  <ERROR><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\main.asm</FILE><LINE>47</LINE></ERROR>
+  <I2C_READ_WITH_NACK><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\main.asm</FILE><LINE>86</LINE></I2C_READ_WITH_NACK>
+  <I2C_STOP><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\main.asm</FILE><LINE>81</LINE></I2C_STOP>
+  <L1><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\main.asm</FILE><LINE>65</LINE></L1>
+  <L2><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\main.asm</FILE><LINE>75</LINE></L2>
+  <L3><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\main.asm</FILE><LINE>89</LINE></L3>
+  <I2C_READ_WITH_ACK><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\main.asm</FILE><LINE>96</LINE></I2C_READ_WITH_ACK>
+  <L4><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\I2C_Master_Receiver\I2C_Master_Receiver\main.asm</FILE><LINE>99</LINE></L4>
+ </LABELS>
+</ASSEMBLER_INFO>
